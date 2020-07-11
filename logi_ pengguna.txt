@@ -1,0 +1,7 @@
+user 1
+username: kasir
+password: kasir
+
+user 2
+username: manager
+password: manager
